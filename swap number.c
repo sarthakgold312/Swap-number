@@ -11,9 +11,9 @@ int main()
 
     // before swapping values:
     printf("\nBefore swapping values are \n A=%d\n B=%d",a,b);
-    int iemp =a;                // swapping...
-    a=b;
-    b= temp;
+    int temp = a;                // swapping...
+            a = b;
+          b = temp;
 
     // after swapping values:
     printf("\nAfter swaping values are \n A=%d\n B=%d",a,b);
