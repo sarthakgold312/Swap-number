@@ -1,4 +1,4 @@
-# Swap-numbe
+# Swap-number
 <br>
 This is my first GitHub repo.
 <br>
